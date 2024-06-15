@@ -1,13 +1,14 @@
 # Bitcoin Tracker App
 
-- ### [Link to flutter tutorial](https://www.udemy.com/course/flutter-bootcamp-with-dart/?couponCode=OF53124)
+### [Link to flutter tutorial](https://www.udemy.com/course/flutter-bootcamp-with-dart/?couponCode=OF53124)
 
-## Overview: 
+## Overview:
+- The bitcoin tracker application allows a user to track the current prices in various currencies for cryptocurrencies such as Bitcon, Ethereum, and Litecoins. 
 
-## What I learn about flutter/dart: 
+## What I learn about flutter/dart with project: 
 - Future, Async & Await
 - Dart Loops
-- Platform specific UI (ios & android)
+- Platform specific UI Components (ios & android)
 
 ## Screenshots: 
 <p float="left">
@@ -18,13 +19,13 @@
 </p>
 
 ## Installation/Running steps :computer: :
-### :warning: To run project you need a OpenWeather API key :warning:
+### :warning: To run project you need a CoinApi API key :warning:
 
-- [Link to creating OpenWeather account and API key](https://openweathermap.org/appid)
+- [Link to creating CoinApi account and API key](https://www.coinapi.io/market-data-api/pricing)
 
 ### Adding environment file
 - Create `.env` file in the root of the project 
-- Insert this `API_KEY='<openweather_api_key>'` into file
+- Insert this `API_KEY='<coinapi_api_key>'` into file
 - Replace <> tag with your open weather api key
 
 ### Running project
